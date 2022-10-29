@@ -1,0 +1,28 @@
+h4{
+    color:blue;
+}
+ p{
+    color:aqua;
+    background-color: rgb(211, 197, 180);
+ }
+ h1{
+    color:green;
+ }
+ h3{
+    color:brown;
+ }
+#color-rojo{
+    color:red;
+}
+.viernes{
+    color:blueviolet;
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/22987.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.autor{
+    color: chartreuse;
+    background-color: rgb(93, 93, 134);
+}
